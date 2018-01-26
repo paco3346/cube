@@ -21,6 +21,6 @@
     "pegjs": "0.7.0",
     "vows": "0.7.0",
     "websocket": "1.0.8",
-    "node-websocket-server": "git+https://github.com/ThisIsMissEm/node-websocket-server.git#29ba5f0a1e4bd49b1801c93b5b0a1031df0b20c8"
+    "websocket-server": "1.4.04"
   }
 }
